@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is React1 by Shivangi Jha",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivangijha/react1.git"
+  },
+  "keywords": [],
+  "author": "Shivangi Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivangijha/react1/issues"
+  },
+  "homepage": "https://github.com/shivangijha/react1#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
